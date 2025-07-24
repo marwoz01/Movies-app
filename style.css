@@ -149,6 +149,18 @@ h1 {
   justify-content: center;
 }
 
+.like-movie-btn {
+  background: #201c2a;
+  border: none;
+  color: #b0b0b0;
+  padding: 5px 0;
+  cursor: pointer;
+}
+
+.liked {
+  color: #ff4757;
+}
+
 @media (min-width: 1024px) {
   .bottom-nav {
     position: fixed;
